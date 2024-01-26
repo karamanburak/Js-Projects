@@ -8,4 +8,4 @@
 | ------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | Phone Ringing | [Source Code](https://github.com/karamanburak/js-projects/tree/main/phone-ringing) | [Live Demo](https://karamanburak.github.io/js-projects/phone-ringing/index.html) |
 
-### For more resources and inspiration, check out websites like W3Schools, MDN Web Docs. These platforms offer comprehensive guides, tutorials, and code examples to support your learning journey. 📚💡
+For more resources and inspiration, check out websites like W3Schools, MDN Web Docs. These platforms offer comprehensive guides, tutorials, and code examples to support your learning journey. 📚💡
