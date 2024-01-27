@@ -1,4 +1,5 @@
-document.querySelector("h1").style.color = "Cornflowerblue"
+document.querySelector("h1").style.color = "red"
+
 document.querySelector("h1").style.textAlign = "center"
 
 let bild = document.querySelector(".bild")
