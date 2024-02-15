@@ -19,7 +19,9 @@ Digital-Clock(folder)
 |----style.css   
 ```
 
+## Expected Outcome
 
+![Project Snapshot](./digital-clock.gif)
 
 ## Objective
 
