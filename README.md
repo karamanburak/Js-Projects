@@ -9,8 +9,8 @@
 | Phone Ringing | [Source Code](https://github.com/karamanburak/js-projects/tree/main/phone-ringing) | [Live Demo](https://karamanburak.github.io/js-projects/phone-ringing/index.html) |
 | Digital Clock | [Source Code](https://github.com/karamanburak/js-projects/tree/main/digital-clock) | [Live Demo](https://karamanburak.github.io/js-projects/digital-clock/index.html)                      
 | BMI Calculator| [Source Code](https://github.com/karamanburak/js-projects/tree/main/bmi-calculator)| [Live Demo](https://karamanburak.github.io/js-projects/bmi-calculator/index.html)
-| BMI Calculator| [Source Code](https://github.com/karamanburak/js-projects/tree/main/random-user)| [Live Demo](https://karamanburak.github.io/js-projects/random-user/index.html)
-| BMI Calculator| [Source Code](https://github.com/karamanburak/js-projects/tree/main/tv-shows)| [Live Demo](https://karamanburak.github.io/js-projects/tv-shows/index.html)
+| Random Users  | [Source Code](https://github.com/karamanburak/js-projects/tree/main/random-user)| [Live Demo](https://karamanburak.github.io/js-projects/random-user/index.html)
+| Tv Shows      | [Source Code](https://github.com/karamanburak/js-projects/tree/main/tv-shows)| [Live Demo](https://karamanburak.github.io/js-projects/tv-shows/index.html)
 
 ##
 
