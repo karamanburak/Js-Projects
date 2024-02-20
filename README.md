@@ -7,7 +7,7 @@
 | Project Name  | Source Code                                                                        | Live Demo                                                                        |
 | ------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | Phone Ringing | [Source Code](https://github.com/karamanburak/js-projects/tree/main/phone-ringing) | [Live Demo](https://karamanburak.github.io/js-projects/phone-ringing/index.html) |
-| Digital Clock | [Source Code](https://github.com/karamanburak/js-projects/tree/main/digital-clock) | [Live Demo](https://karamanburak.github.io/js-projects/digital-clock/index.html)htmlhtml)                        
+| Digital Clock | [Source Code](https://github.com/karamanburak/js-projects/tree/main/digital-clock) | [Live Demo](https://karamanburak.github.io/js-projects/digital-clock/index.html)                      
 | BMI Calculator| [Source Code](https://github.com/karamanburak/js-projects/tree/main/bmi-calculator)| [Live Demo]()
 
 ##
