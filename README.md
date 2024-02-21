@@ -11,6 +11,7 @@
 | BMI Calculator| [Source Code](https://github.com/karamanburak/js-projects/tree/main/bmi-calculator)| [Live Demo](https://karamanburak.github.io/js-projects/bmi-calculator/index.html)
 | Random Users  | [Source Code](https://github.com/karamanburak/js-projects/tree/main/random-user)| [Live Demo](https://karamanburak.github.io/js-projects/random-user/index.html)
 | Tv Shows      | [Source Code](https://github.com/karamanburak/js-projects/tree/main/tv-shows)| [Live Demo](https://karamanburak.github.io/js-projects/tv-shows/index.html)
+| Stop Watch    | [Source Code](https://github.com/karamanburak/js-projects/tree/main/stop-Watch)| [Live Demo](https://karamanburak.github.io/js-projects/stop-Watch/index.html)
 
 ##
 

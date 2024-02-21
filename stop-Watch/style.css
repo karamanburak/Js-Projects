@@ -1,0 +1,54 @@
+body {
+    background: #4D8076;
+    color: #ccf5eb;
+}
+
+.container {
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.time {
+    font-size: 3rem;
+}
+
+.circle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgba(255, 255, 255, 0.545);
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    font-size: 3rem;
+}
+
+.stopwatch {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 3rem;
+}
+
+.control-btn {
+    display: flex;
+    gap: 1rem;
+}
+
+i {
+    font-size: 3rem;
+    cursor: pointer;
+}
+
+i:hover {
+    transform: scale(.95);
+}
+
+span {
+    padding: .5rem;
+    width: 250px;
+    text-align: center;
+}
