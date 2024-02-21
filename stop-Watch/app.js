@@ -4,11 +4,15 @@ let stopWatchInterval
 
 const startStopwatch = () =>{
 
-    stopWatchInterval =setInterval(showStopwatch,10)
+    if (!stopWatchInterval) {
+        stopWatchInterval = setInterval(showStopwatch, 10)
+    }
     
 }
 const pauseStopwatch = ()=> {
 clearInterval(stopWatchInterval)
+    stopwatchInterval = null;
+
 
 }
 const resetStopwatch = ()=> {
